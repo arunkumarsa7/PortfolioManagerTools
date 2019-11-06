@@ -1,2 +1,2 @@
 # PortfolioManagerTools
-Utilities and script files for the project Portfolio Manager
+Repository to hold SQL scripts, project docs for Portfolio Manager app
