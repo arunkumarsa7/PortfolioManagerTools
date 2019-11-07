@@ -1,10 +1,10 @@
 @echo off
-echo            ----------------------
-echo     	  -------made by @run-----
-echo            ----------------------
 echo  _ ----------------------------------------------- _
-echo -_ Spring Boot and Angular - Build and Deploy Tool _ -
+echo -_ [92mSpring Boot and Angular[0m - [96mBuild and Deploy Tool[0m _ -
 echo    -----------------------------------------------
+echo            ----------------------
+echo     	  -------made by [92m@[0m[93mrun[0m-----
+echo            ----------------------
 echo.
 set PROPERTY_FILE=%cd%\Build.properties
 set ROOT_LOCATION=%cd%
