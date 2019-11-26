@@ -5,7 +5,7 @@ echo   \__ \ ) _/ )  \  )(  )  (( (/\   ) ,\( () )( () ) )(    / _) )   /__\  ) 
 echo   (___/(_)  (_)\_)(__)(_)\_)\__/  (___/ \__/  \__/ (__)   \___/   (_)(_)(_)\_)\__/ \__/ (____)(_)(_)(_)\_)
 echo											 Build and Deployment Tool             
 echo.
-set PROPERTY_FILE=%cd%\Build.properties
+set PROPERTY_FILE=%cd%\config\Build.properties
 set ROOT_LOCATION=%cd%
 echo Reading configurations...
 

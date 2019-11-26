@@ -1,6 +1,6 @@
 @echo off
 cd /d ..
-set PROPERTY_FILE=%cd%\Build.properties
+set PROPERTY_FILE=%cd%\config\Build.properties
 set File=%PROPERTY_FILE%
 set /a count=0
 SETLOCAL enabledelayedexpansion
